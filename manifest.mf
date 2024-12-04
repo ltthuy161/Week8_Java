@@ -1,0 +1,2 @@
+Main-Class: GUI.UserManagementUI
+Class-Path: lib/pgjdbc-42.7.4.jar
